@@ -1,5 +1,7 @@
 # Admin-Commands-Lua
 
+Vídeo referente ao código: https://www.youtube.com/watch?v=udQ8fZLC6Z8
+
 A partir do comando base de /kill você pode criar seus proprios comandos
 
 sempre importe o ModuleScript para garantir que a Whitelist seja encontrada!
